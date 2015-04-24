@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"cancelar"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"valo",
+				"validarPos"
+			],
+			[
+				"im",
+				"imprimir"
+			],
+			[
+				"baco",
+				"baco"
+			],
+			[
+				"Numero",
+				"Numero"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"link",
+				"link2"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ml",
+				"ml-a	margin-left: auto;"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"borde",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacdisa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"pacinst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/javier/Desktop/DesafioLatam/Projects/Prueba1"
+	],
+	"file_history":
+	[
+		"/home/javier/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/javier/Desktop/DesafioLatam/Projects/Tarea_Clase8/css-transitions/assets/css/media.css",
+		"/home/javier/Desktop/DesafioLatam/Projects/Tarea_Clase8/css-transitions/assets/css/main.css",
+		"/home/javier/Desktop/DesafioLatam/Projects/Tarea_Clase8/css-transitions/index.html",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase8_2/CSSBootstrap.sublime-project",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase8_2/assets/css/clase8-css.sublime-project",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase8/css-transitions/assets/images/reychoclo.jpg",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase8/css-transitions/assets/images/gracialsol.jpg",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase8/css-transitions/assets/css/media.css",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/clase-05-css/assets/images/gracialsol.jpg",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/clase-05-css/assets/css/main.css",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/clase-05-css/index.html",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/clase-05-css/.gitignore",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/clase-05-css/assets/hla.jpg",
+		"/home/javier/Desktop/DesafioLatam/Projects/Clase5/CSS_clase5.sublime-project",
+		"/home/javier/blog/app/controllers/application_controller.rb",
+		"/home/javier/blog/app/controllers/articles_controller.rb",
+		"/home/javier/blog/app/views/layouts/application.html.erb",
+		"/home/javier/blog/app/views/welcome/index.html.erb",
+		"/home/javier/blog/app/views/articles/_form.html.erb",
+		"/home/javier/blog/app/views/articles/edit.html.erb",
+		"/home/javier/blog/app/views/articles/index.html.erb",
+		"/home/javier/.gitconfig",
+		"/home/javier/blog/.gitconfig",
+		"/home/javier/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/javier/Desktop/pinterest2/config/initializers/inflections.rb",
+		"/home/javier/Desktop/pinterest2/config/initializers/mime_types.rb",
+		"/home/javier/Desktop/pinterest/db/schema.rb",
+		"/home/javier/Desktop/pinterest/app/admin/pin.rb",
+		"/home/javier/Desktop/pinterest/app/assets/stylesheets/application.css",
+		"/home/javier/Desktop/pinterest/app/models/contact.rb",
+		"/home/javier/Desktop/pinterest2/app/views/pages/about.html.erb",
+		"/home/javier/Desktop/pinterest/config/routes.rb",
+		"/home/javier/Desktop/pinterest/app/views/pins/new.html.erb",
+		"/home/javier/Desktop/pinterest/app/views/pins/_form.html.erb",
+		"/home/javier/Desktop/pinterest/Gemfile",
+		"/home/javier/Desktop/pinterest/db/migrate/20150225223358_create_pins.rb",
+		"/home/javier/Desktop/pinterest/app/assets/stylesheets/scaffolds.scss"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"existente",
+			"titulo",
+			"h2",
+			"');\n",
+			"getElementById",
+			"		var numero1 = document.getElementById('numero1').value;\n",
+			"();\n",
+			"();",
+			"ctrl+7",
+			"ctrl+/",
+			"article",
+			"li",
+			"pin",
+			"mypins.html.erb",
+			"belosg",
+			"current"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"contact"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prueba1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/DesafioLatam/Projects/Clase13/Clase13_JS.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
