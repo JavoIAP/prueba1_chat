@@ -1,0 +1,22 @@
+.titulo{
+	border:3px solid black;
+	position: fixed;
+	width: 98%;
+
+}
+
+.container{
+	height: 100%;
+	width: 100%;
+}
+
+.mensajes{
+	height: 850px;
+}
+
+
+.barra{
+	position: relative;
+	width: 95%;
+	height: 20px;
+}
